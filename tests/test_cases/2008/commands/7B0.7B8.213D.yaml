@@ -1,0 +1,9 @@
+command_id: 7B0.7B8.213D
+test_cases:
+- expected_values:
+    LS600H_ABS_WARN: 0
+    LS600H_BRAKE_WARN: 0
+    LS600H_BUZZER: 0
+    LS600H_ECB_WARN: 0
+    LS600H_SLIP_WARN: 0
+  response: 7B804613D0000

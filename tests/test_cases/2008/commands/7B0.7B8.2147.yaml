@@ -1,0 +1,18 @@
+command_id: 7B0.7B8.2147
+test_cases:
+- expected_values:
+    LS600H_LAT_G: 0.02
+    LS600H_LNG_G: -0.02
+    LS600H_STEER_ANGLE: -16.1
+    LS600H_YAW_RATE: 0
+  response: |-
+    7B81009614701FF807F
+    7B8215F00F500000000
+- expected_values:
+    LS600H_LAT_G: 0.02
+    LS600H_LNG_G: -0.02
+    LS600H_STEER_ANGLE: -15.6
+    LS600H_YAW_RATE: 0
+  response: |-
+    7B81009614701FF807F
+    7B82164000000000000

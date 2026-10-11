@@ -1,0 +1,8 @@
+command_id: 7C4.7CC.2153
+test_cases:
+- expected_values:
+    LS600H_REGULATOR_P: 558.31
+  response: 7CC03615345
+- expected_values:
+    LS600H_REGULATOR_P: 573.02
+  response: 7CC03615346

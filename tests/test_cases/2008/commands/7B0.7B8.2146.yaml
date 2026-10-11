@@ -1,0 +1,16 @@
+command_id: 7B0.7B8.2146
+test_cases:
+- expected_values:
+    LS600H_ZP_DEC: 0
+    LS600H_ZP_DEC2: 0
+    LS600H_ZP_YAW: 0
+  response: |-
+    7B81009614600008080
+    7B82100190900000000
+- expected_values:
+    LS600H_ZP_DEC: 0
+    LS600H_ZP_DEC2: 0
+    LS600H_ZP_YAW: 0
+  response: |-
+    7B81009614600008080
+    7B82100190C00000000

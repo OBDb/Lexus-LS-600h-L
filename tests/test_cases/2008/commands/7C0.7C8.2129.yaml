@@ -1,0 +1,5 @@
+command_id: 7C0.7C8.2129
+test_cases:
+- expected_values:
+    LS600H_FUEL_INPUT: 30
+  response: 7C80361291E
