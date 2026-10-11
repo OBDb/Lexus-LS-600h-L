@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Lexus_LS"
+
+generations:
+  - name: "Fourth Generation (XF40)"
+    start_year: 2008
+    end_year: 2017
+    description: "The long-wheelbase hybrid LS with the 5.0 L 2UR-FSE V8 and full-time all-wheel drive."
