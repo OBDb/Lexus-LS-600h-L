@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2128
+test_cases:
+- expected_values:
+    LS600H_ODO_V7: 8441450
+  response: 7E806612880CE6A11
+- expected_values:
+    LS600H_ODO_V7: 8444010
+  response: 7E806612880D86A39
+- expected_values:
+    LS600H_ODO_V7: 8445802
+  response: 7E806612880DF6A61
+- expected_values:
+    LS600H_ODO_V7: 8452458
+  response: 7E806612880F96A61

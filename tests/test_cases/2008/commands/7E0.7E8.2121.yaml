@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2121
+test_cases:
+- expected_values:
+    LS600H_CC_S: 57
+  response: '7E80461210039'

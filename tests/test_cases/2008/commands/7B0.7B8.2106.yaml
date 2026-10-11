@@ -1,0 +1,10 @@
+command_id: 7B0.7B8.2106
+test_cases:
+- expected_values:
+    LS600H_YAW_1: 0
+    LS600H_YAW_2: 0
+  response: 7B80661068080801E
+- expected_values:
+    LS600H_YAW_1: 0
+    LS600H_YAW_2: 0
+  response: 7B80661068080802D
